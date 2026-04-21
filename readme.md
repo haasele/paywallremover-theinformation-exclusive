@@ -26,7 +26,7 @@ this should output `Python 3.x`
 If not, you can download and install python [here](https://www.python.org/downloads/)
 
 
-### pip:
+### pip
 
 type `py -m pip --version`
 
@@ -36,7 +36,7 @@ The output should look like this
 If not, download and install pip. [Here's an example](https://www.activestate.com/resources/quick-reads/how-to-install-pip-on-windows/)
 
 
-### choco:
+### choco
 
 type in `choco --version`
 This should output the version
@@ -44,7 +44,7 @@ This should output the version
 If not, you can download and install choco [here](https://chocolatey.org/install)
 
 
-### Git:
+### Git
 
 type in `git --version`
 This should output the Git version
@@ -52,7 +52,7 @@ This should output the Git version
 If not, you can download and install Git via `choco install git` (This needs elevated privileges )
 
 
-## Install the modules with:
+## Install the modules with
 
 This also needs elevated privileges to successfully install it, type in:
 
@@ -62,11 +62,11 @@ This also needs elevated privileges to successfully install it, type in:
 
 
 
-# How to use:
+# How to use it
 
 Open your cmd, go into the folder you want the files to be downloaded in and type:
 
-`git clone https://github.com/DTC-United/paywallremover-theinformation-exclusive.git`
+`git clone https://github.com/haasele/paywallremover-theinformation-exclusive.git`
 
 `cd paywallremover-theinformation-exclusive`
 
